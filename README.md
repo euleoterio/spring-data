@@ -1,1 +1,3 @@
-# spring-data
+# SPRING DATA JPA: REPOSITORIES, QUERIES, PROJECTIONS AND SPECIFICATIONS
+
+Course on Spring Data JPA held on the Alura platform.
